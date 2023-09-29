@@ -20,11 +20,11 @@ To identify the credit risk of individual customers from the collected user defa
 
 ## Contents 📝
 
-### 📌 Task 1 - Exploratory Data Analysis (EDA):
+### Task 1 - Exploratory Data Analysis (EDA):
 
 Summarize the main characteristics of variables by statistical methods and visualizations, distinguishing default and non-default users across multiple dimensions.
 
-### 📌 Task 2 - Random Forest Classification Model:
+### Task 2 - Random Forest Classification Model:
 
 This is a binary classification task aimed at differentiating between defaulting **(default=1)** and non-defaulting **(default=0)** users and identifying the primary features that impact user default.
 
@@ -44,7 +44,7 @@ This is a binary classification task aimed at differentiating between defaulting
 - The importance of each feature is computed, identifying age as the most influential factor, followed by working hours, living duration, and income. These findings align well with previous research and empirical studies on default influencing factors.
 
 
-### 📌 Task 3 - Logistic Regression Credit Scorecard:
+### Task 3 - Logistic Regression Credit Scorecard:
 
 This part presents a Credit Scorecard based on Logistic Regression that assesses the risk of each loan applicant through a discriminant indicator. This model is a vital instrument for loan institutions, offering them to rate and discern the reliability of customers in various loaning environments. 
   
