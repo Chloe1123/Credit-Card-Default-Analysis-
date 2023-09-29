@@ -46,7 +46,7 @@ This is a binary classification task aimed at differentiating between defaulting
 
 ### 📌 Task 3 - Logistic Regression Credit Scorecard:
 
-This part presents a Credit Scorecard based on Logistic Regressionthat assesses the risk of each loan applicant through a discriminant indicator. This model is a vital instrument for loan institutions, offering them to rate and discern the reliability of customers in various loaning environments. 
+This part presents a Credit Scorecard based on Logistic Regression that assesses the risk of each loan applicant through a discriminant indicator. This model is a vital instrument for loan institutions, offering them to rate and discern the reliability of customers in various loaning environments. 
   
 **Multicollinearity Test**
   
@@ -70,4 +70,5 @@ This part presents a Credit Scorecard based on Logistic Regressionthat assesses 
 - Establishing the base score, Odds, PDO, and points to each binned variable.
   
 **Stability Evaluation:**
-  Using the Population Stability Index (PSI) to indicate model stability.
+  
+- Using the Population Stability Index (PSI) to indicate model stability.
